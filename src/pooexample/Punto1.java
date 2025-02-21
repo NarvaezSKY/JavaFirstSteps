@@ -9,7 +9,7 @@ package pooexample;
  * @author NarvaezSKY
  */
 import java.util.Scanner;
-public class POOExample {
+public class Punto1 {
     
     public static void main(String[] args) {
     Scanner input =new Scanner(System.in);
