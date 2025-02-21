@@ -19,7 +19,7 @@ public class Punto1 {
     System.out.println("Ingrese la base");
     a=input.nextInt();
     
-    System.out.println("Ingrese la base");
+    System.out.println("Ingrese la altura");
     b=input.nextInt();
     
     r=(a*b);
